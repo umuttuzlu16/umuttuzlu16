@@ -12,9 +12,9 @@ I’m currently working on web development, database management, and desktop app
 - C/C++ (Beginner)
 - Basics of Electronic Circuits and Embedded Systems
 - 3D Modeling (Basic Level)
-- PCB Design (Skill Level: Unknown)
-- OpenCV (Image Processing)
-- LoRa Module (Data Transmission)
+- PCB Design
+- OpenCV
+- LoRa Module (Cableless Long Range Data Transmission)
 
 ## 🎯 Goals
 - Enter and grow in the field of cybersecurity
