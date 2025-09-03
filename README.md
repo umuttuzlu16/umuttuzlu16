@@ -2,28 +2,23 @@
 
 I'm a 15-year-old mid-level Python developer with strong fundamentals in programming. Currently, I'm a 9th grade student at Vehbi Dinçerler Science High School in Gaziantep, Turkey.
 
-I’m currently working on web development, database management, and desktop applications. My interest in electronics has also led me to start learning C and C++.
-
 ## 💻 Technical Skills
-- Python (Intermediate)
-- Web Development with Flask
+- Python
 - MySQL Database Management
-- Desktop UI Development with Tkinter
-- C/C++ (Beginner)
-- Basics of Electronic Circuits and Embedded Systems
+- C/C++
+- Electronic Circuits and Embedded Systems
 - 3D Modeling
 - PCB Design
-- LoRa Module (Cableless Long Range Data Transmission)
 
 ## 🎯 Goals
-- Enter and grow in the field of cybersecurity
-- Develop integrated hardware-software projects
+- Master at fluid simulations
 - Contribute to open-source software
 
 ## 🏆 Achievements & Participation
 - 🥈 **2nd Place** in TÜBİTAK Technology Design – Adana Regional Finals (2025)
-- 🎥 Participated in Teknofest Underwater Unmanned Systems – Video Stage (2024)
+- 🎥 Participated in Teknofest Underwater Unmanned Systems – Video Stage (2024 - 2025)
 - 🏎️ High School Efficiency Challenge Electric Vehicle Competition Finalist (2025)
+- 🔭 IAAC Participation
 
 ## ⚡ Interests
 - Programming and software development
@@ -33,7 +28,7 @@ I’m currently working on web development, database management, and desktop app
 
 ## 🖥️ System & Tools I Use
 - **Operating System:** Windows 11
-- **Code Editor:** Visual Studio Code
+- **Code Editor:** Visual Studio Code - Visual Studio 2022
 - **Hardware:** Monster Notebook (Intel i7 10th Gen, 8 GB RAM, GTX 1650)
 
 ## 🌍 Languages
