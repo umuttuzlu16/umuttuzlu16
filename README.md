@@ -1,4 +1,4 @@
-#I'm Umut Tuzlu
+# I'm Umut Tuzlu
 
 I'm a 15-year-old mid-level developer with strong fundamentals in programming and electonics. Currently, I'm a 10th grade student at Vehbi Dinçerler Science High School in Gaziantep, Turkey.
 
