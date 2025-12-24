@@ -1,15 +1,10 @@
 # 👋 Hi, I'm Umut Tuzlu
 
-<p align="center">
-  <b>Mid-level Developer | Electronics & Embedded Systems Enthusiast</b><br>
-  <i>Don't Stay At Points, Feel The Line</i>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-I am a **15-year-old mid-level developer** with strong fundamentals in **programming, electronics, and embedded systems**.  
+I am a **16-year-old mid-level developer** with strong fundamentals in **programming, electronics, and embedded systems**.  
 Currently, I am a **10th-grade student** at **Vehbi Dinçerler Science High School** in **Gaziantep, Turkey**.
 
 I actively participate in **national technology competitions** and work on **real-world engineering projects**, focusing on:
@@ -62,13 +57,9 @@ I actively participate in **national technology competitions** and work on **rea
 - Arduino IDE  
 
 ### 🧰 Hardware
-- **Monster Notebook**
-  - Intel i7 (10th Gen)
-  - 8 GB RAM
-  - NVIDIA GTX 1650
-
-### 🪟 Operating System
-- Windows 11
+- Intel i7 (10th Gen)
+- 8 GB RAM
+- NVIDIA GTX 1650
 
 ---
 
@@ -106,6 +97,5 @@ I actively participate in **national technology competitions** and work on **rea
 ---
 
 <p align="center">
-  <b>Engineering is not about standing still.</b><br>
-  <i>Feel the line.</i>
+    <i>Don't Stay At Points, Feel The Line</i>
 </p>
