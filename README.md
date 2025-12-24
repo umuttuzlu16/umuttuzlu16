@@ -1,31 +1,31 @@
-<h1>I'm Umut Tuzlu</h1>
+<h1 align=center>I'm Umut Tuzlu</h1>
 
 I'm a 15-year-old mid-level developer with strong fundamentals in programming and electonics. Currently, I'm a 10th grade student at Vehbi Dinçerler Science High School in Gaziantep, Turkey.
 
-<h1>💻 Technical Skills</h1>
-Python<br>
-MySQL Database Management<br>
-C/C++<br>
-Electronic Circuits and Embedded Systems<br>
-PCB Design
+<h1 align=center>💻 Technical Skills</h1>
+<h2>Python</h2><br>
+<h2>MySQL Database Management<h2><br>
+<h2>C/C++<h2><br>
+<h2>Electronic Circuits and Embedded Systems<h2><br>
+<h2>PCB Design<h2>
 
-<h1>🏆 Achievements & Participation</h1>
-🥈 **2nd Place** in TÜBİTAK Technology Design – Adana Regional Finals (2025)<br>
-🎥 Participated in Teknofest Underwater Unmanned Systems – Video Stage (2024 - 2025)<br>
-🏎️ High School Efficiency Challenge Electric Vehicle Competition Finalist (2025)<br>
-🔭 IAAC Participation
+<h1 align=center>🏆 Achievements & Participation</h1>
+<h2>🥈 2nd Place in TÜBİTAK Technology Design – Adana Regional Finals (2025)<h2><br>
+<h2>🎥 Participated in Teknofest Underwater Unmanned Systems – Video Stage (2024 - 2025)<h2><br>
+<h2>🏎️ High School Efficiency Challenge Electric Vehicle Competition Finalist (2025)<h2><br>
+<h2>🔭 IAAC Participation<h2>
 
-<h1>🖥️ System & Tools I Use</h1>
-Operating System: Windows 11<br>
-Apps: Visual Studio Code - Visual Studio 2022 - Altium Designer - Fusion360 - Arduino IDE<br>
-Hardware: Monster Notebook (Intel i7 10th Gen, 8 GB RAM, GTX 1650)
+<h1 align=center>🖥️ System & Tools I Use</h1>
+<h2>Operating System: Windows 11<h2><br>
+<h2>Apps: Visual Studio Code - Visual Studio 2022 - Altium Designer - Fusion360 - Arduino IDE<h2><br>
+<h2>Hardware: Monster Notebook (Intel i7 10th Gen, 8 GB RAM, GTX 1650)<h2>
 
-<h1>🌍 Languages</h1>
-- 🇹🇷 Turkish: Native<br>
-- ***🇬🇧 English: Intermediate
+<h1 align=center>🌍 Languages</h1>
+<h2>🇹🇷 Turkish: Native<h2><br>
+<h2>🇬🇧 English: Intermediate<h2>
 
-<h1>🎓 Education</h1>
-- Vehbi Dinçerler Science High School – Gaziantep, Turkey
+<h1 align=center>🎓 Education</h1>
+<h2>Vehbi Dinçerler Science High School – Gaziantep, Turkey<h2>
 
 ---
 
