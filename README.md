@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Umut Tuzlu
+#  Hi, I'm Umut Tuzlu
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I am a **16-year-old mid-level developer** with strong fundamentals in **programming, electronics, and embedded systems**.  
-Currently, I am a **10th-grade student** at **Vehbi Dinçerler Science High School** in **Gaziantep, Turkey**.
+I am a **17-year-old mid-level developer** with strong fundamentals in **programming, electronics, and embedded systems**.  
+Currently, I am a **11th-grade student** at **Vehbi Dinçerler Science High School** in **Gaziantep, Turkey**.
 
-I actively participate in **national technology competitions** and work on **real-world engineering projects**, focusing on:
+I actively participate in **national & international technology competitions** and work on **real-world engineering projects**, focusing on:
 - Embedded software
 - PCB design
 - Data-driven applications
@@ -15,51 +15,38 @@ I actively participate in **national technology competitions** and work on **rea
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
-### 🧠 Programming
+###  Programming
 - **Python** – automation, application development, data processing
 - **C / C++** – embedded systems, low-level programming
 
-### 🗄️ Databases
+###  Databases
 - **MySQL** – database design & management
 
-### ⚡ Electronics & Hardware
+###  Electronics & Hardware
 - Electronic circuit design
 - Embedded systems
 - Microcontroller-based projects
-- **PCB Design** (Altium Designer)
+- **PCB Design** (Altium Designer, EasyEDA)
 
 ---
 
-## 🏆 Achievements & Competitions
+##  Achievements & Competitions
 
-- 🥈 **2nd Place** – TÜBİTAK Technology Design  
+-  **2nd Place** – TÜBİTAK Technology Design  
   *Adana Regional Finals (2025)*
 
-- 🎥 **Teknofest Underwater Unmanned Systems**  
+-  **Teknofest Underwater Unmanned Systems**  
   *Video Stage Participant (2024 & 2025)*
 
-- 🏎️ **High School Efficiency Challenge**  
-  *Electric Vehicle Competition – Finalist (2025)*
+-  **High School Efficiency Challenge**  
+  *Electric Vehicle Competition – Finalist (2025, 2026)*
 
-- 🔭 **IAAC** – Participant
+-  **IAAC** – Participant
 
----
-
-## 🖥️ System & Tools
-
-### 💻 Software
-- Visual Studio Code  
-- Visual Studio 2022  
-- Altium Designer  
-- Fusion 360  
-- Arduino IDE  
-
-### 🧰 Hardware
-- Intel i7 (10th Gen)
-- 8 GB RAM
-- NVIDIA GTX 1650
+-  **Shell Eco-Marathon Mileage Challenge**  
+  *Electric Vehicle Competition – Finalist (2026)*
 
 ---
 
